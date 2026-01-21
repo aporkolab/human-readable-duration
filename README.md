@@ -1,7 +1,7 @@
 # Human Readable Duration
 
-[![CI](https://github.com/aporkolab/human-readable-duration/actions/workflows/ci.yml/badge.svg)](https://github.com/aporkolab/human-readable-duration/actions/workflows/ci.yml)
-[![Java](https://img.shields.io/badge/Java-21%2B-blue)](https://openjdk.org/)
+[![CI](https://github.com/aporkolab/human-readable-duration/actions/workflows/ci.yml/badge.svg?branch=master&v=1)](https://github.com/aporkolab/human-readable-duration/actions/workflows/ci.yml)
+[![Java](https://img.shields.io/badge/Java-25-blue)](https://openjdk.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Porkoláb Ádám**
